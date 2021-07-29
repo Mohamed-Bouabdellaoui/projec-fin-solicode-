@@ -1,0 +1,31 @@
+* {
+          padding: 0;
+          margin: 0;
+          box-sizing: border-box;
+}
+body {
+          background: #e5efff;
+}
+.row {
+          background: white;
+          border-radius: 30px;
+}
+.btn1 {
+          border: none;
+          outline: none;
+          height: 50px;
+          width: 100%;
+          background-color: #4285f4;
+          color: white;
+          border-radius: 4px;
+          font-weight: bold;
+}
+.btn1:hover {
+          background: white;
+          border: 1px solid;
+          color: #4285f4;
+}
+.return{
+    background-color: white;
+    font-weight: bold;
+}
